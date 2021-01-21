@@ -3,7 +3,8 @@ def main():
 
 
 def upload_kafka():
-    pass
+
+    print("finished")
 
 
 def lookalike():
