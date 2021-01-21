@@ -7,7 +7,7 @@ def upload_kafka():
 
 
 def lookalike():
-    pass
+    print("finished")
 
 
 main()
