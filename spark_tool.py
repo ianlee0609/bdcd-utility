@@ -1,5 +1,5 @@
 def main():
-    pass
+    print('')
 
 
 def upload_kafka():
