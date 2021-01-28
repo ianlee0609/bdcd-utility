@@ -11,6 +11,6 @@ def lookalike():
     print("finished")
 
 def slack_bot():
-    print ("slack bot")
+    print("finished")
 
 main()
