@@ -10,5 +10,8 @@ def upload_kafka():
 def lookalike():
     print("finished")
 
+def slack_bot():
+    print("finished")
+
 
 main()
